@@ -30,14 +30,14 @@
 
 ### Running the project
 
-Clone this repository :
+Clone this repository:
 
 ```
 git clone https://github.com/sebkpf/todo-react.git
 cd todo-react
 ```
 
-Install packages :
+Install packages:
 
 ```
 npm install
